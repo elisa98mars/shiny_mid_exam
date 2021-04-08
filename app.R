@@ -33,13 +33,14 @@ second_panel <- tabPanel(
     sidebarLayout( position = "right",
                    
         sidebarPanel(
-          helpText("Create a histogram based on gender differences."),
+          helpText("Create a histogram based selecting the feature 
+                    you want to display."),
           
             selectInput(
                 "x_var",
                 label = "Select a X variable:",
                 choices = select_values[-1:-2],
-                selected = "Status"
+                selected = "Age"
             ),
           
           textOutput("text"),
