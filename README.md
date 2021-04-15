@@ -1,7 +1,7 @@
 # shiny_mid_exam
 ## Sarbucks data visualizator
 
-This shiny app has been made for the midterm exam of the second module of the course *Coding for Data Science*. 
+This shiny app has been made for the midterm exam of the second module of the course *Coding for Data Science*. (/n)
 To run it copy and paste this: ```r runGitHub("shiny_mid_exam", "elisa98mars", ref="main") ```
 
 ### Introduction panel
