@@ -52,4 +52,4 @@ Below are listed the variable of the dataset used and their meaning.
 
 **SpendPurchase** -> 0 = Zero, 1 = Less than 20 RM, 2 = 20 RM - 40 RM, 3 = More than 40 RM
 
-The remaining varibles are about the **rate** the customer left on some charcteristics of their visit.
+The remaining varibles are about the **rate** the customer left on some charcteristics of their experience; the votes go from 1 to 5, where 1 is *very bad* and 5 is *excellent*.
