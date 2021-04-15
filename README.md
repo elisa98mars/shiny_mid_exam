@@ -18,7 +18,7 @@ In this panel you can visualize an histogram of which you can choose the **x var
 
 ![Histogram.](ReadMe_Img/hist.PNG)
 
-In addition you can choose if to visualized the data divided **by gender** checking the appropriate box.
+In addition you can choose if to visualized the data divided **by gender**, checking the appropriate box, or **by membership** checking the other box.
 
 ![By Gender.](ReadMe_Img/hist_gender.PNG)
 
@@ -38,6 +38,8 @@ Below are listed the variable of the dataset used and their meaning.
 
 **Gender** -> dummy variable: M for male, F for female.
 
+**MembershipCard** -> dummy variable: Yes or No.
+
 **Age** -> 0 = Below 20, 1 = 20-29, 2 = 30-39, 3 = 40 and above
 
 **Status** -> 0 = Student, 1 = Self-empolyed, 2 = Employed, 3 = Housewife
@@ -47,8 +49,6 @@ Below are listed the variable of the dataset used and their meaning.
 **VisitNo** -> 0 = Daily, 1 = Weekly, 2 = Monthly, 3 = Never
 
 **Method** -> 0 = Dine-in, 1 = Drive-thru, 2 = Take-away, 3 = Never, 4 = Others
-
-**MembershipCard** -> dummy variable: 0  for Yes, 1 for No
 
 **SpendPurchase** -> 0 = Zero, 1 = Less than 20 RM, 2 = 20 RM - 40 RM, 3 = More than 40 RM
 
