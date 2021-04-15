@@ -9,7 +9,7 @@ To run it copy and paste this: ```runGitHub("shiny_mid_exam", "elisa98mars", ref
 
 Here you can find the logo of the company and a breif descriptrion of the dataset used, that you can find [here](https://www.kaggle.com/mahirahmzh/starbucks-customer-retention-malaysia-survey).
 
-![Introduction panel.](Intr.png)
+![Introduction panel.](ReadMe_Img/Intr.PNG)
 
 ### Customer Data panel
 
